@@ -2,7 +2,7 @@
 
 An interactive prototype demonstrating how AI products should surface model uncertainty to end users — moving beyond single accuracy metrics to prediction-level confidence scores with actionable context.
 
-🔗 **[Try the live demo →](https://vercel.com/jananmgs-projects/ai-confidence-dashboard/2xy5rkBKr1E58jSnJgTDC8e8jeRz)**
+🔗 **[Try the live demo →](https://ai-confidence-dashboard.vercel.app/)**
 
 ![Dashboard Screenshot](screenshot.png)
 
