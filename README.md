@@ -5,7 +5,6 @@ An interactive prototype demonstrating how AI products should surface model unce
 🔗 **[Try the live demo →](https://ai-confidence-dashboard.vercel.app/)**
 
 ![Dashboard Screenshot](screenshot.png)
-
 ---
 
 ## The Problem
